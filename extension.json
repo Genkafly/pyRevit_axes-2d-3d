@@ -6,8 +6,8 @@
   "name": "Axes 2D-3D",
   "description": "Переключение осей и уровней Revit между режимами 2D и 3D",
   "author": "Axes2D3D",
-  "author_profile": "https://github.com/Genkafly/pyRevit_axes-2d-3d",
-  "url": "",
+  "author_profile": "",
+  "url": "https://github.com/Genkafly/pyRevit_axes-2d-3d",
   "website": "",
   "image": "",
   "dependencies": []
