@@ -1,0 +1,14 @@
+{
+  "builtin": "False",
+  "default_enabled": "True",
+  "type": "extension",
+  "rocket_mode_compatible": "True",
+  "name": "Axes 2D-3D",
+  "description": "Переключение осей и уровней Revit между режимами 2D и 3D",
+  "author": "Axes2D3D",
+  "author_profile": "",
+  "url": "",
+  "website": "",
+  "image": "",
+  "dependencies": []
+}
