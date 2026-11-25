@@ -100,21 +100,3 @@ Axes2D3D.extension\
 `%APPDATA%\pyRevit\Extensions`
 
 Затем перезапустите Revit.
-
-## Для публикации на GitHub
-
-В репозитории должны лежать **содержимое** этой папки, а не сама папка
-`Axes2D3D.extension`:
-
-- `extension.json`
-- `pyRevit.tab`
-- `README.md`
-
-После создания репозитория откройте `extension.json` на GitHub, нажмите
-карандаш и укажите ссылку на репозиторий в поле `"url"`:
-
-```json
-"url": "https://github.com/ВАШ_ЛОГИН/axes-2d-3d"
-```
-
-Затем сохраните изменение кнопкой **Commit changes**.
